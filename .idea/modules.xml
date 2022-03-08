@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/game_base/beans/beans.iml" filepath="$PROJECT_DIR$/game_base/beans/beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootdemo/bootdemo.iml" filepath="$PROJECT_DIR$/bootdemo/bootdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game_base/mapper/mapper.iml" filepath="$PROJECT_DIR$/game_base/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game_base/service/service.iml" filepath="$PROJECT_DIR$/game_base/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game_base/web/web.iml" filepath="$PROJECT_DIR$/game_base/web/web.iml" />
+    </modules>
+  </component>
+</project>
